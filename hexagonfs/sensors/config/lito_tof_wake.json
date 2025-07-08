@@ -1,0 +1,13 @@
+{
+  "config":
+  {
+    "hw_platform": ["MTP","Surf"],
+    "soc_id": ["434", "435", "459"]
+  },
+  "sns_tof_wake":{
+    "owner": "sns_tof_wake",
+    "tof_period":{"type": "flt", "ver": "0",
+      "data": "200.0"
+    }
+  }
+}
